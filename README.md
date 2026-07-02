@@ -78,3 +78,4 @@ Risk levels:
 ## Business Value
 
 This dashboard helps HR move from reactive attrition reporting to proactive retention planning by identifying and supporting active high-risk employees before they leave.
+*Author: Çağla Gülcan *Connect with me on (https://www.linkedin.com/in/caglagulcan/)
